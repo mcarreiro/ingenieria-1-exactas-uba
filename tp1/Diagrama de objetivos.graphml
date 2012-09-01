@@ -27,7 +27,7 @@
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="223" bottomF="222.91188735742605" left="128" leftF="127.64305836220171" right="499" rightF="498.80274854105846" top="165" topF="165.49160022838055"/>
+              <y:BorderInsets bottom="218" bottomF="218.40285927967227" left="84" leftF="83.6100491307044" right="499" rightF="498.80274854105846" top="165" topF="165.49160022838055"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="50.0" width="50.0" x="-166.0" y="-582.5510204081631"/>
@@ -46,10 +46,10 @@
         <node id="n0::n0">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="48.89722863741349" width="256.76674364896076" x="-444.6076633468052" y="-216.0857967667439"/>
+              <y:Geometry height="53.406256715167274" width="314.25685164032143" x="-491.65866794132216" y="-216.0857967667439"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="262.802734375" x="-3.0179953630196223" y="15.464239318706746">Mantener [Administracion de Conductores]<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="262.802734375" x="25.727058632660714" y="17.718753357583637">Mantener [Administracion de Conductores]<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -63,10 +63,10 @@
         <node id="n0::n1">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="48.89722863741349" width="256.76674364896076" x="-177.40181630100074" y="-216.0857967667439"/>
+              <y:Geometry height="53.406256715167274" width="314.25685164032143" x="-177.40181630100074" y="-216.0857967667439"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="262.802734375" x="-3.0179953630196223" y="15.464239318706746">Mantener [Administracion de Conductores]<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="262.802734375" x="25.727058632660714" y="17.718753357583637">Mantener [Administracion de Conductores]<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -80,10 +80,10 @@
         <node id="n0::n2">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="48.89722863741349" width="256.76674364896076" x="79.36492734796002" y="-218.9511547344115"/>
+              <y:Geometry height="53.406256715167274" width="314.25685164032143" x="152.63663361145893" y="-216.0857967667439"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="56.04296875" x="100.36188744948038" y="15.464239318706746">Lograr []<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="56.04296875" x="129.10694144516071" y="17.718753357583637">Lograr []<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
