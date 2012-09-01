@@ -51,7 +51,7 @@
               <y:Geometry height="184.21875000000006" width="357.3437499999999" x="-31.460941314697493" y="360.3817545572915"/>
               <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="56.248046875" x="150.54785156249994" y="83.125">SISTEMA<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="46" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="57.546875" modelName="custom" textColor="#000000" visible="true" width="204.2841796875" x="76.52978515624994" y="63.3359375">SISTEMA<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -157,7 +157,7 @@
               <y:Geometry height="184.21875" width="314.3749999999999" x="-775.5412109374986" y="360.3817545572915"/>
               <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="82.31640625" x="116.029296875" y="83.125">CONDUCTOR<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="46" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="57.546875" modelName="custom" textColor="#000000" visible="true" width="304.212890625" x="5.0810546875" y="63.3359375">CONDUCTOR<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -174,7 +174,7 @@
               <y:Geometry height="184.21875" width="314.3749999999999" x="886.7434082031243" y="356.92380254420203"/>
               <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="custom" textColor="#000000" visible="true" width="82.31640625" x="116.029296875" y="83.125">CONDUCTOR<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="46" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="57.546875" modelName="custom" textColor="#000000" visible="true" width="234.673828125" x="39.8505859375" y="63.3359375">PASAJERO<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -241,12 +241,10 @@
       <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-139.180908203125" sy="-18.286602214429138" tx="178.71272221104232" ty="-21.74455422751862">
-            <y:Point x="614.7499999999995" y="430.324081570381"/>
-          </y:Path>
+          <y:Path sx="-139.180908203125" sy="-18.286602214429138" tx="178.71272221104232" ty="-21.74455422751862"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="free" modelPosition="anywhere" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="91.498046875" x="-302.73022460937545" y="-24.380630343681503">Busca Servicio</y:EdgeLabel>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="free" modelPosition="anywhere" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="91.498046875" x="-302.78883937870364" y="-24.006218885160536">Busca Servicio</y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
@@ -408,7 +406,7 @@
         <y:PolyLineEdge>
           <y:Path sx="-157.139892578125" sy="20.00088119279428" tx="178.66139980179247" ty="16.5429291797048"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
-          <y:Arrows source="none" target="standard"/>
+          <y:Arrows source="standard" target="none"/>
           <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="free" modelPosition="anywhere" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="118.78515625" x="-213.89935302734432" y="6.055648953193554">Calificar Conductor</y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
