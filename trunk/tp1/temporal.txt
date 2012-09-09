@@ -31,7 +31,9 @@ Organizar Conductores y Pasajeros:
 
 --- Lograr [Mostrar recorridos con sus respectivos horarios y conductores]
 
-
+-------------- TODO LO QUE FALTA ----------------------
+- Hay que revisar todo
+- Sistema de tránsito, clima, etc
 - Algunas divisiones de objetivos
 - Sistema de calificaciones
 - Falta que datos sean reales
