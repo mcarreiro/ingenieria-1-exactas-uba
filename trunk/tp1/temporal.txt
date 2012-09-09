@@ -1,0 +1,43 @@
+Lograr [Un sistema confiable que permita a conductores y pasajeros organizarse para llevar a cabo el programa de carpool]
+
+Confiable:
+- Que los conductores y pasajeros confíen en los demás usuarios del sistema a partir de la calificación de otros usuarios
+- Que el sistema brinde recorridos reales
+
+Organizar Conductores y Pasajeros:
+- Que los conductores y pasajeros puedan registrarse en el sistema
+- Que los conductores publiquen sus recorridos y horarios
+- Que los pasajeros puedan consultar y seleccionar los recorridos, horarios y condutores disponibles
+- Que el sistema permita a conductores y pasajeros comunicarse 
+
+-Lograr [Organizar Conductores y Pasajeros para llevar a cabo el programa de carpool]
+
+-Lograr [Confiabilidad en el sistema]
+
+-- Lograr [Que los conductores y pasajeros confíen en los demás usuarios del sistema a partir de la calificación de otros usuarios]
+-- Lograr [Que el sistema brinde recorridos reales]
+
+-- Lograr [Que los conductores y pasajeros puedan registrarse en el sistema]
+-- Lograr [Que los conductores puedan publicar sus recorridos]
+-- Lograr [Que los pasajeros puedan consultar los recorridos disponibles y los conductores]
+-- Lograr [Que el sistema permita a conductores y pasajeros comunicarse]
+
+--- Lograr [Que conductores y pasajeros se registren sin auditoría]
+--- Lograr [Que conductores y pasajeros se registren si no tienen causas penales o las tienen y son autorizador por un auditor]
+
+
+---Lograr [Mostrar el mapa]
+---Lograr [Que complete el mapa con su recorrido]
+
+--- Lograr [Mostrar recorridos con sus respectivos horarios y conductores]
+
+
+- Algunas divisiones de objetivos
+- Sistema de calificaciones
+- Falta que datos sean reales
+- Auditor
+
+- Informe
+- Escenarios
+- O Refinamiento del diag de agentes
+
