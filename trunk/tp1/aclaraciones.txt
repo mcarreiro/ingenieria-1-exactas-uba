@@ -1,3 +1,12 @@
 *Si el usuario que se registra tiene antecedents penales el usuario se crea deshabilitado y tiene que pasar por un auditor para ser habilitado. Si le aparecen antecedentes penales una vez que ya se registro se le deshabilita el usuario y tiene que ir al auditor para volver a ser habilitado.
 
 *El sistema solo muestra alertas si en el recorrido que se estableció  (por parte del conductor o usuario)hay algún inconveniente meteorológico, de trafico o si cambio algo en el mapa de ese recorrido, en caso contrario no le muestra alerta alguna.
+
+
+seleccion de viaje:
+
+El sisttema sabe si el pasajero y conductor tuvieron acuerdo ya que en la base de datos se guarda la seleccion del pasajero y luego la aceptación del conductor.
+
+Cuando un conductor califica al pasajero esta información se guarda en la base de datos.
+
+El conductor acepta al pasajero a traves de una pantalla en la que visualiza todas las solicitudas para los viajes ingresados por él.
