@@ -27,7 +27,7 @@
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="66" bottomF="65.5792894651197" left="0" leftF="0.0" right="83" rightF="82.97829582373458" top="33" topF="32.7890625"/>
+              <y:BorderInsets bottom="66" bottomF="65.5792894651197" left="0" leftF="0.0" right="81" rightF="80.97829582373458" top="33" topF="32.7890625"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="50.0" width="50.0" x="-603.7378561323353" y="130.83447265625"/>
@@ -66,7 +66,7 @@
               <y:Geometry height="40.607299927813926" width="172.95089197594643" x="-703.6352591704256" y="396.6270846951745"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="147.408203125" x="12.771344425473217" y="3.6024780889069348">Lograr[Tener conocimiento
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="147.408203125" x="12.771344425473217" y="3.6024780889069916">Lograr[Tener conocimiento
 de las Alertas climaticas]<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
@@ -81,11 +81,12 @@ de las Alertas climaticas]<y:LabelModel>
         <node id="n0::n2">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="40.607299927813926" width="211.69406918407526" x="-3.7290888424259947" y="269.7488895012692"/>
+              <y:Geometry height="45.607299927813926" width="213.69406918407526" x="-3.7290888424259947" y="269.7488895012692"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="160.71484375" x="25.48961271703763" y="3.6024780889069916">Lograr[Transmitir informacion
- alertas climaticas]<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" modelName="custom" textColor="#000000" visible="true" width="174.0625" x="19.81578459203763" y="-1.2481078485930084">Lograr[Transmitir información
+de las alertas climaticas, trafico 
+y cortes en las calles]<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -224,7 +225,7 @@ los embotellamientos]<y:LabelModel>
               <y:Geometry height="40.607299927813926" width="244.88662116933796" x="-365.24457830096406" y="269.7488895012692"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" modelName="custom" textColor="#000000" visible="true" width="188.08984375" x="28.39838870966895" y="-3.7481078485930652">Lograr[Tener información sobre el 
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" modelName="custom" textColor="#000000" visible="true" width="188.08984375" x="28.39838870966895" y="-3.7481078485930084">Lograr[Tener información sobre el 
 estado del clima, trafico 
 y cortes en de las calles]<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -348,7 +349,6 @@ y cortes en de las calles]<y:LabelModel>
       </data>
     </edge>
     <edge id="n0::e9" source="n0::n5" target="n0::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -359,7 +359,6 @@ y cortes en de las calles]<y:LabelModel>
       </data>
     </edge>
     <edge id="n0::e10" source="n0::n4" target="n0::n2">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
