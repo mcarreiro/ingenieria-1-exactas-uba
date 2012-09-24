@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.6.10)  23 SEP 2012 21:12
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.6.10)  23 SEP 2012 21:39
 entering extended mode
  %&-line parsing enabled.
 **resolucion.tex
@@ -123,18 +123,18 @@ Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 ) (./resolucion.aux)
 \openout1 = `resolucion.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 
 *geometry auto-detecting driver*
 *geometry detected driver: pdftex*
@@ -192,18 +192,18 @@ driver: pdftex
 ) <logo_dc.jpg, id=1, 215.6055pt x 83.5923pt>
 File: logo_dc.jpg Graphic file (type jpg)
  <use logo_dc.jpg>
-Underfull \hbox (badness 10000) in paragraph at lines 20--20
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 20.
+(Font)              <7> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 20.
+(Font)              <5> on input line 21.
 <logo_uba.jpg, id=2, 225.4824pt x 231.7458pt>
 File: logo_uba.jpg Graphic file (type jpg)
  <use logo_uba.jpg>
-Underfull \hbox (badness 10000) in paragraph at lines 20--20
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
 
  []
 
@@ -217,8 +217,8 @@ File: imagenes/contexto.png Graphic file (type png)
 <imagenes/root.png, id=19, 1964.33875pt x 452.69125pt>
 File: imagenes/root.png Graphic file (type png)
  <use imagenes/root.png>
-Overfull \hbox (29.56897pt too wide) in paragraph at lines 40--42
-[] 
+Overfull \hbox (29.56897pt too wide) in paragraph at lines 36--37
+[][] 
  []
 
 <imagenes/Registrarse.png, id=20, 1813.77625pt x 522.95375pt>
@@ -229,12 +229,12 @@ File: imagenes/Registrarse.png Graphic file (type png)
 File: imagenes/Registrarsea.png Graphic file (type png)
 
 <use imagenes/Registrarsea.png>
-Overfull \hbox (29.5821pt too wide) in paragraph at lines 44--47
-[]
+Overfull \hbox (29.5821pt too wide) in paragraph at lines 39--41
+[][]
  []
 
 
-Overfull \hbox (29.58987pt too wide) in paragraph at lines 44--47
+Overfull \hbox (29.58987pt too wide) in paragraph at lines 39--41
 [] 
  []
 
@@ -246,62 +246,81 @@ File: imagenes/Ingresenrecorridos.png Graphic file (type png)
 File: imagenes/Ingresenrecorridosa.png Graphic file (type png)
 
 <use imagenes/Ingresenrecorridosa.png>
-Overfull \hbox (29.58496pt too wide) in paragraph at lines 49--52
-[]
+Overfull \hbox (29.58496pt too wide) in paragraph at lines 43--45
+[][]
  []
 
 
-Overfull \hbox (29.58537pt too wide) in paragraph at lines 49--52
+Overfull \hbox (29.58537pt too wide) in paragraph at lines 43--45
 [] 
  []
 
 [3 <./imagenes/root.png (PNG copy)> <./imagenes/Registrarse.png (PNG copy)> <./
-imagenes/Registrarsea.png (PNG copy)>]
-<imagenes/Mostrar.png, id=27, 2092.81876pt x 707.64375pt>
+imagenes/Registrarsea.png (PNG copy)>] [4 <./imagenes/Ingresenrecorridos.png (P
+NG copy)> <./imagenes/Ingresenrecorridosa.png (PNG copy)>]
+<imagenes/Mostrar.png, id=30, 680.5425pt x 343.2825pt>
 File: imagenes/Mostrar.png Graphic file (type png)
 
 <use imagenes/Mostrar.png>
-Overfull \hbox (29.57999pt too wide) in paragraph at lines 54--56
+<imagenes/Mostrara.png, id=31, 1334.9875pt x 673.51625pt>
+File: imagenes/Mostrara.png Graphic file (type png)
+
+<use imagenes/Mostrara.png>
+<imagenes/Mostrarb.png, id=32, 770.88pt x 623.32875pt>
+File: imagenes/Mostrarb.png Graphic file (type png)
+
+<use imagenes/Mostrarb.png>
+Overfull \hbox (29.62262pt too wide) in paragraph at lines 53--56
+[]
+ []
+
+
+Overfull \hbox (29.6068pt too wide) in paragraph at lines 53--56
+[]
+ []
+
+
+Overfull \hbox (29.58357pt too wide) in paragraph at lines 53--56
 [] 
  []
 
-<imagenes/Comunicacion.png, id=28, 1494.58376pt x 660.4675pt>
+<imagenes/Comunicacion.png, id=33, 1494.58376pt x 660.4675pt>
 File: imagenes/Comunicacion.png Graphic file (type png)
 
 <use imagenes/Comunicacion.png>
-Overfull \hbox (29.5967pt too wide) in paragraph at lines 58--60
-[] 
+Overfull \hbox (29.5967pt too wide) in paragraph at lines 58--59
+[][] 
  []
 
-[4 <./imagenes/Ingresenrecorridos.png (PNG copy)> <./imagenes/Ingresenrecorrido
-sa.png (PNG copy)> <./imagenes/Mostrar.png (PNG copy)>]
-<imagenes/Retribucion.png, id=32, 1437.37pt x 520.94624pt>
+[5 <./imagenes/Mostrar.png (PNG copy)> <./imagenes/Mostrara.png (PNG copy)> <./
+imagenes/Mostrarb.png (PNG copy)>]
+<imagenes/Retribucion.png, id=37, 1437.37pt x 520.94624pt>
 File: imagenes/Retribucion.png Graphic file (type png)
 
 <use imagenes/Retribucion.png>
-Overfull \hbox (29.60979pt too wide) in paragraph at lines 62--64
-[] 
+Overfull \hbox (29.60979pt too wide) in paragraph at lines 61--62
+[][] 
  []
 
-<imagenes/InformacionDelClimayViajes.png, id=33, 748.7975pt x 450.68375pt>
+<imagenes/InformacionDelClimayViajes.png, id=38, 748.7975pt x 450.68375pt>
 File: imagenes/InformacionDelClimayViajes.png Graphic file (type png)
 
 <use imagenes/InformacionDelClimayViajes.png>
-Overfull \hbox (29.61769pt too wide) in paragraph at lines 66--68
-[] 
+Overfull \hbox (29.61769pt too wide) in paragraph at lines 64--65
+[][] 
  []
 
-[5 <./imagenes/Comunicacion.png (PNG copy)> <./imagenes/Retribucion.png (PNG co
-py)> <./imagenes/InformacionDelClimayViajes.png (PNG copy)>] [6]
+[6 <./imagenes/Comunicacion.png (PNG copy)> <./imagenes/Retribucion.png (PNG co
+py)> <./imagenes/InformacionDelClimayViajes.png (PNG copy)>] [7]
 (./resolucion.aux) ) 
 Here is how much of TeX's memory you used:
- 2136 strings out of 495061
- 28338 string characters out of 1182621
- 88734 words of memory out of 3000000
- 5317 multiletter control sequences out of 15000+50000
+ 2146 strings out of 495061
+ 28568 string characters out of 1182621
+ 89734 words of memory out of 3000000
+ 5325 multiletter control sequences out of 15000+50000
  6232 words of font info for 23 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 32i,8n,32p,1804b,205s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 32i,8n,32p,1804b,203s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
 bx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
 usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/te
@@ -310,9 +329,9 @@ fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/p
 ublic/amsfonts/cm/cmss10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
 nts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
 tt10.pfb>
-Output written on resolucion.pdf (6 pages, 1015028 bytes).
+Output written on resolucion.pdf (7 pages, 1029049 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 72 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
