@@ -20,14 +20,14 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="835.8918435847033" width="823.9687301835207" x="-2.0033436155800644" y="-106.91072771902776"/>
+              <y:Geometry height="835.8918435847033" width="823.9687301835206" x="-2.0033436155800644" y="-106.91072771902776"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="823.9687301835207" x="0.0" y="0.0">Sistema</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="823.9687301835206" x="0.0" y="0.0">Sistema</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="13" bottomF="12.534644677091137" left="54" leftF="54.353399960374475" right="73" rightF="72.92796239894676" top="0" topF="0.0"/>
+              <y:BorderInsets bottom="13" bottomF="12.534644677091137" left="54" leftF="54.353399960374475" right="73" rightF="72.92796239894665" top="0" topF="0.0"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="50.0" width="50.0" x="262.0" y="28.0"/>
@@ -199,10 +199,11 @@ inconvenientes<y:LabelModel>
           <data key="d4"/>
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="50.0" width="110.0" x="83.35005634479438" y="251.2489051914397"/>
+              <y:Geometry height="50.0" width="131.2809930480011" x="83.35005634479438" y="251.2489051914397"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="19.92626953125" modelName="custom" textColor="#000000" visible="true" width="100.8525390625" x="4.57373046875" y="15.036865234375">4. Pagando viaje<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="13" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="35.8525390625" modelName="custom" textColor="#000000" visible="true" width="103.01708984375" x="14.131951602125554" y="7.07373046875">4. Realizando 
+prepago del viaje<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
