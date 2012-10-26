@@ -283,7 +283,7 @@
         <node id="n0::n17">
           <data key="d6">
             <y:GenericNode configuration="com.yworks.bpmn.Event.withShadow">
-              <y:Geometry height="30.0" width="30.0" x="216.90585584110045" y="596.8182432318685"/>
+              <y:Geometry height="30.0" width="30.0" x="208.66208911632387" y="596.8182432318685"/>
               <y:Fill color="#FFFFFFE6" color2="#D4D4D4CC" transparent="false"/>
               <y:BorderStyle color="#B11F1F" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="eight_pos" modelPosition="s" textColor="#000000" visible="true" width="4.0" x="13.0" y="34.0"/>
