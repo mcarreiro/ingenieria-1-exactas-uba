@@ -20,14 +20,14 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="487.15476853280825" width="1806.4236047387399" x="1241.7967693012506" y="243.7302807957334"/>
+              <y:Geometry height="758.1159850506654" width="1314.5948419836373" x="285.4630639441077" y="-478.07396824763396"/>
               <y:Fill color="#CAECFF84" transparent="false"/>
               <y:BorderStyle color="#666699" type="dotted" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="1806.4236047387399" x="0.0" y="0.0">Lograr [Que los conductores registren sus recorridos validados, horarios respectivos y cantidad de pasajeros]</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#99CCFF" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" modelName="internal" modelPosition="t" textColor="#000000" visible="true" width="1314.5948419836373" x="0.0" y="0.0">Lograr [Que los conductores registren sus recorridos validados, horarios respectivos y cantidad de pasajeros]</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+              <y:BorderInsets bottom="22" bottomF="22.282176936568817" left="0" leftF="0.0" right="10" rightF="10.27644904068552" top="0" topF="0.0"/>
             </y:GroupNode>
             <y:GroupNode>
               <y:Geometry height="50.0" width="50.0" x="-36.790624999999864" y="251.4042968749999"/>
@@ -46,10 +46,10 @@
         <node id="n0::n0">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="63.835646130516636" width="330.5042377360721" x="1378.3506805841325" y="368.4171987570429"/>
+              <y:Geometry height="63.835646130516636" width="330.5042377360721" x="422.01697522698964" y="-353.38705028632444"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.8046875" modelName="custom" textColor="#000000" visible="true" width="208.7734375" x="60.86540011803618" y="0.5154793152583466">Lograr [Que los conductores registren 
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="62.8046875" modelName="custom" textColor="#000000" visible="true" width="208.7734375" x="60.86540011803618" y="0.5154793152582897">Lograr [Que los conductores registren 
 sus recorridos validados, horarios 
 respectivos y cantidad de pasajeros 
 a través de un mapa]<y:LabelModel>
@@ -66,7 +66,7 @@ a través de un mapa]<y:LabelModel>
         <node id="n0::n1">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="63.83564613051658" width="309.9587888265981" x="2416.8059594307315" y="368.4171987570429"/>
+              <y:Geometry height="63.83564613051658" width="309.9587888265981" x="1264.8226680604612" y="-129.7548458453423"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" modelName="custom" textColor="#000000" visible="true" width="244.12890625" x="32.914941288298905" y="7.86606525275829">Lograr [Que los conductores 
@@ -85,7 +85,7 @@ y cantidad de pasajeros a través del sistema]<y:LabelModel>
         <node id="n0::n2">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="157.7698043280481" x="1256.7967693012506" y="563.0955625410811"/>
+              <y:Geometry height="30.0" width="157.7698043280481" x="300.4630639441077" y="-158.70868650228624"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="135.384765625" x="11.19251935152397" y="5.6494140625">Lograr [Mostrar el mapa]<y:LabelModel>
@@ -102,7 +102,7 @@ y cantidad de pasajeros a través del sistema]<y:LabelModel>
         <node id="n0::n3">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="43.81018549747046" width="228.9156352373974" x="1429.14498183347" y="563.0955625410811"/>
+              <y:Geometry height="43.81018549747046" width="228.9156352373974" x="472.81127647632707" y="-158.70868650228624"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" modelName="custom" textColor="#000000" visible="true" width="170.74609375" x="29.084770743698755" y="-2.1466650637647717">Lograr [Conductores ingresen 
@@ -121,7 +121,7 @@ cantidad de pasajeros]<y:LabelModel>
         <node id="n0::n4">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="30.0" x="1528.6027994521687" y="485.32690374070955"/>
+              <y:Geometry height="30.0" width="30.0" x="572.2690940950258" y="-236.4773453026578"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="13.0" y="13.0">
@@ -139,7 +139,7 @@ cantidad de pasajeros]<y:LabelModel>
         <node id="n0::n5">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="96.21736763937429" x="1423.948172720859" y="639.133793890733"/>
+              <y:Geometry height="30.0" width="96.21736763937429" x="467.61446736371613" y="-82.6704551526343"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="59.365234375" x="18.42606663218703" y="5.6494140625">Conductor<y:LabelModel>
@@ -156,7 +156,7 @@ cantidad de pasajeros]<y:LabelModel>
         <node id="n0::n6">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="116.53300251116912" x="1277.4151702096901" y="639.133793890733"/>
+              <y:Geometry height="30.0" width="116.53300251116912" x="321.08146485254724" y="-82.6704551526343"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="103.380859375" x="6.576071568084444" y="5.6494140625">Sistema de mapas<y:LabelModel>
@@ -173,7 +173,7 @@ cantidad de pasajeros]<y:LabelModel>
         <node id="n0::n7">
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.cloud">
-              <y:Geometry height="50.0" width="194.22343350198935" x="1965.7187221244735" y="382.2709408779504"/>
+              <y:Geometry height="50.0" width="194.22343350198935" x="1009.3850167673306" y="-339.53330816541694"/>
               <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="102.056640625" x="46.083396438494674" y="15.6494140625">Facilidad de carga<y:LabelModel>
@@ -189,7 +189,7 @@ cantidad de pasajeros]<y:LabelModel>
         <node id="n0::n8">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="96.21736763937429" x="2245.582275332209" y="639.133793890733"/>
+              <y:Geometry height="30.0" width="96.21736763937429" x="787.143358179278" y="166.008584428654"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="59.365234375" x="18.42606663218703" y="5.6494140625">Conductor<y:LabelModel>
@@ -206,7 +206,7 @@ cantidad de pasajeros]<y:LabelModel>
         <node id="n0::n9">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="102.64982278406137" x="1550.1655403602335" y="639.133793890733"/>
+              <y:Geometry height="30.0" width="102.64982278406137" x="593.8318350030906" y="-82.6704551526343"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="47.34765625" x="27.65108326703057" y="5.6494140625">Sistema<y:LabelModel>
@@ -223,7 +223,7 @@ cantidad de pasajeros]<y:LabelModel>
         <node id="n0::n10">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="228.9156352373974" x="1665.5808666116518" y="563.0955625410811"/>
+              <y:Geometry height="30.0" width="228.9156352373974" x="709.2471612545089" y="-158.70868650228624"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="136.7265625" x="46.094536368698755" y="5.6494140625">Lograr [Validar recorrido]<y:LabelModel>
@@ -240,7 +240,7 @@ cantidad de pasajeros]<y:LabelModel>
         <node id="n0::n11">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="116.53300251116912" x="1721.7721829747659" y="639.133793890733"/>
+              <y:Geometry height="30.0" width="116.53300251116912" x="765.438477617623" y="-82.6704551526343"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="103.380859375" x="6.5760715680846715" y="5.6494140625">Sistema de mapas<y:LabelModel>
@@ -257,7 +257,7 @@ cantidad de pasajeros]<y:LabelModel>
         <node id="n0::n12">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="92.78948678746053" width="309.95878882659815" x="1894.496501849049" y="563.0955625410811"/>
+              <y:Geometry height="92.78948678746053" width="309.95878882659815" x="938.1627964919062" y="-158.70868650228624"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="77.505859375" modelName="custom" textColor="#000000" visible="true" width="260.798828125" x="24.579980350799133" y="7.641813706230323">Lograr [Conductores ingresan 
@@ -278,10 +278,10 @@ de pasajeros respectivos a través de un mapa]<y:LabelModel>
         <node id="n0::n13">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="102.64982278406137" x="1998.1509848703174" y="685.8850493285416"/>
+              <y:Geometry height="30.0" width="102.64982278406137" x="1041.8172795131745" y="-35.91919971482571"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="47.34765625" x="27.65108326703057" y="5.6494140625">Sistema<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="47.34765625" x="27.6510832670308" y="5.6494140625">Sistema<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -295,7 +295,7 @@ de pasajeros respectivos a través de un mapa]<y:LabelModel>
         <node id="n0::n14">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="49.96380801921816" width="309.9587888265981" x="2193.800570883445" y="563.0955625410811"/>
+              <y:Geometry height="49.96380801921816" width="309.9587888265981" x="735.3616537305138" y="89.97035307900205"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" modelName="custom" textColor="#000000" visible="true" width="244.12890625" x="32.914941288298905" y="0.9301461971090248">Lograr [Que los conductores 
@@ -314,7 +314,7 @@ y cantidad de pasajeros a través del sistema]<y:LabelModel>
         <node id="n0::n15">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="228.9156352373974" x="2506.194392026734" y="563.0955625410811"/>
+              <y:Geometry height="30.0" width="228.9156352373974" x="1047.755474873803" y="89.97035307900205"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="136.7265625" x="46.094536368698755" y="5.6494140625">Lograr [Validar recorrido]<y:LabelModel>
@@ -331,7 +331,7 @@ y cantidad de pasajeros a través del sistema]<y:LabelModel>
         <node id="n0::n16">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="116.53300251116912" x="2562.3857083898483" y="639.133793890733"/>
+              <y:Geometry height="30.0" width="116.53300251116912" x="1103.9467912369173" y="166.008584428654"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="47.34765625" x="34.592673130584444" y="5.6494140625">Sistema<y:LabelModel>
@@ -348,7 +348,7 @@ y cantidad de pasajeros a través del sistema]<y:LabelModel>
         <node id="n0::n17">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="92.78948678746053" width="298.11034677585883" x="2735.1100272641315" y="563.0955625410811"/>
+              <y:Geometry height="92.78948678746053" width="298.11034677585883" x="1276.6711101112005" y="89.97035307900205"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="92.20703125" modelName="custom" textColor="#000000" visible="true" width="228.109375" x="35.000485887929244" y="0.2912277687303231">Lograr [Conductores ingresan 
@@ -370,7 +370,7 @@ través del sistema]<y:LabelModel>
         <node id="n0::n18">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="102.64982278406137" x="2832.8402892600297" y="685.8850493285416"/>
+              <y:Geometry height="30.0" width="102.64982278406137" x="1374.4013721070987" y="212.75983986646258"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="47.34765625" x="27.65108326703057" y="5.6494140625">Sistema<y:LabelModel>
@@ -387,7 +387,7 @@ través del sistema]<y:LabelModel>
         <node id="n0::n19">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="116.53300251116912" x="2341.7996429715836" y="639.133793890733"/>
+              <y:Geometry height="30.0" width="116.53300251116912" x="883.3607258186526" y="166.008584428654"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="47.34765625" x="34.592673130584444" y="5.6494140625">Sistema<y:LabelModel>
@@ -404,7 +404,7 @@ través del sistema]<y:LabelModel>
         <node id="n0::n20">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="30.0" x="2556.785353844031" y="482.67420371432024"/>
+              <y:Geometry height="30.0" width="30.0" x="1144.467102297236" y="24.08080028517429"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="13.0" y="13.0">
@@ -422,7 +422,7 @@ través del sistema]<y:LabelModel>
         <node id="n0::n21">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="30.0" x="2066.513510038047" y="281.1067456394834"/>
+              <y:Geometry height="30.0" width="30.0" x="1110.1798046809042" y="-440.69750340388396"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="20.681640625" x="4.6591796875" y="5.6494140625">2.1<y:LabelModel>
@@ -484,7 +484,7 @@ través del sistema]<y:LabelModel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="18.015625" x="136.96382217546397" y="-37.4033633418486">++<y:LabelModel>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="18.015625" x="136.96379601753995" y="-37.40335213130976">++<y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -511,7 +511,7 @@ través del sistema]<y:LabelModel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="six_pos" modelPosition="head" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="15.98828125" x="-150.9645655182776" y="-18.86176107892834">---</y:EdgeLabel>
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="six_pos" modelPosition="head" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="15.98828125" x="-123.4857447822385" y="-106.10956089006248">---</y:EdgeLabel>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
